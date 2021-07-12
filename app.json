@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "targro",
+    "slug": "targro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "targro"
+}
